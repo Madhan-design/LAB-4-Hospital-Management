@@ -9,9 +9,9 @@ This application provides a way to record this information and to access these i
 ## USECASE DIAGRAM:
 ![Screenshot 2025-05-19 134012](https://github.com/user-attachments/assets/a4299b20-7be7-42bc-b456-574718deb258)
 ## CLASS DIAGRAM:
-![Screenshot 2025-05-19 134025](https://github.com/user-attachments/assets/d52d5bae-64bc-4949-84de-6fe92c3de013)
+![Screenshot 2025-05-19 135333](https://github.com/user-attachments/assets/3c71d060-308b-4306-a700-dba608bf0592)
 ## ACTIVITY DIAGRAM:
-![Screenshot 2025-05-19 134047](https://github.com/user-attachments/assets/602e4522-0889-4d12-ba71-52a90890a5e4)
+![Screenshot 2025-05-19 135345](https://github.com/user-attachments/assets/1e1f950b-d5f4-48df-84d3-8552f2abe059)
 ## PACKAGE DIAGRAM:
 ![Screenshot 2025-05-19 134159](https://github.com/user-attachments/assets/f4b619a5-bb66-4929-9e68-bdec12c7625c)
 ## COMMUNICATION DIAGRAM:
